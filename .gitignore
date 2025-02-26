@@ -12,4 +12,4 @@
 # ignorar arquivos de build
 *.egg-info
 *.egg
-
+__pycache__
