@@ -1,0 +1,15 @@
+# ignorar arquivos de configuração
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.env
+*.flaskenv
+*.env.*
+*.flaskenv.*
+# ignorar arquivos de build
+*.egg-info
+*.egg
+
